@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="v00.MyDecodeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-10T15:32:20" hostname="lufeideMBP" time="0.154">
+  <properties/>
+  <testcase name="decode" classname="v00.MyDecodeTest" time="0.154"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
